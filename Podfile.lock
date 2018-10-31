@@ -1,0 +1,83 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (3.3.7)
+  - JKCountDownButton (1.2.0)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.3)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SocketRocket (0.5.1)
+  - UMengUShare/Core (6.4.8.2):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8.2)
+  - UMengUShare/Social/ReducedWeChat (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/WeChat (6.4.8.2):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedWeChat
+  - WebViewJavascriptBridge (6.0.3)
+  - WMPageController (2.3.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - IQKeyboardManager (~> 3.3.7)
+  - JKCountDownButton
+  - Masonry (~> 1.0.2)
+  - MBProgressHUD (~> 1.0.0)
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.0)
+  - SDWebImage (~> 3.7.5)
+  - SocketRocket
+  - UMengUShare/Social/WeChat
+  - WebViewJavascriptBridge
+  - WMPageController (~> 2.3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - IQKeyboardManager
+    - JKCountDownButton
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - SocketRocket
+    - UMengUShare
+    - WebViewJavascriptBridge
+    - WMPageController
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  JKCountDownButton: cc72e24c8b73f232b15cc348277422b089d43bff
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  UMengUShare: 370d180101e13ee0227ae657ab119ba97243d2b3
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  WMPageController: 9f219bb8912a1a1f51af11fde61e2682a7b7e7f2
+
+PODFILE CHECKSUM: f55cf9f40aba646a966f603f0aee5cfe395c8b00
+
+COCOAPODS: 1.5.3
